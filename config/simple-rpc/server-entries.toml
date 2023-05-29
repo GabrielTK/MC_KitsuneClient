@@ -1,0 +1,13 @@
+enabled = true
+
+version = 2
+
+[[entry]]
+		ip = "mc.shu.akitsune.dev"
+		description = "Playing on SHU Minecraft"
+		state = "Go join them! mc.shu.akitsune.dev"
+		largeImageKey = [""]
+		largeImageText = ""
+		smallImageKey = [""]
+		smallImageText = ""
+

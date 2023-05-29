@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "8b1ee5cea5cbf3a28e0d67ba6d1b094291f52cab6b37731c722b37ba73ead5ac"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "8368f6182ff8ffaee501b64074e7d7134ad6757f94c0cd01a119c58611151821"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6b76641118d0d86d838f5eb45f333d636e12e930598b857973e4b57b7a374e9b"
 metafile = true
@@ -58,4 +66,13 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "99a140246e61e21c5754c939f183b24eb4b5ef36a5f9a93350949f88cea74927"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "a7cdf1afe2e5e986bb4c8f90018407cb61ac6d05ef60fb4b591910e1e72006dc"
+
+[[files]]
+file = "servers.pw.toml"
+hash = "6efd040861f1a341050b87c17863fc149ec16240a4c40d477e0a84c83b6f9f98"
 metafile = true

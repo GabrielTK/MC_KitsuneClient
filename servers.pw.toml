@@ -1,0 +1,12 @@
+name = "ServerList"
+filename = "servers.dat"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/GabrielTK/MC_KitsuneClient/main/servers.dat"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+# certutil.exe -hashfile .\servers.dat SHA256
+hash-format = "sha256"
+hash = "a7cdf1afe2e5e986bb4c8f90018407cb61ac6d05ef60fb4b591910e1e72006dc"

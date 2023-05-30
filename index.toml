@@ -1,12 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/simple-rpc/server-entries.pw.toml"
+hash = "913129f5af990c91e16d337b15c26061b892250d7023986fdedf1e383f437d49"
+metafile = true
+
+[[files]]
 file = "config/simple-rpc/server-entries.toml"
 hash = "8b1ee5cea5cbf3a28e0d67ba6d1b094291f52cab6b37731c722b37ba73ead5ac"
 
 [[files]]
+file = "config/simple-rpc/simple-rpc.pw.toml"
+hash = "7ae43e6738cffd4296af0fc1e8d4f734dc710c723debc8781b1c17c989294356"
+metafile = true
+
+[[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "8368f6182ff8ffaee501b64074e7d7134ad6757f94c0cd01a119c58611151821"
+hash = "5ce80c8a40e405cebe27381369b34dcccd9f65be6b633490b502325c9249cbb0"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"

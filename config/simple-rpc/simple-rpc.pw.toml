@@ -9,4 +9,4 @@ url = "https://raw.githubusercontent.com/GabrielTK/MC_KitsuneClient/main/config/
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 # certutil.exe -hashfile .\servers.dat SHA256
 hash-format = "sha256"
-hash = "5CE80C8A40E405CEBE27381369B34DCCCD9F65BE6B633490B502325C9249CBB0"
+hash = "5ce80c8a40e405cebe27381369b34dcccd9f65be6b633490b502325c9249cbb0"

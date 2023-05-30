@@ -1,0 +1,12 @@
+name = "RPC Config"
+filename = "simple-rpc.toml"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/GabrielTK/MC_KitsuneClient/main/config/simple-rpc/simple-rpc.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+# certutil.exe -hashfile .\servers.dat SHA256
+hash-format = "sha256"
+hash = "5CE80C8A40E405CEBE27381369B34DCCCD9F65BE6B633490B502325C9249CBB0"

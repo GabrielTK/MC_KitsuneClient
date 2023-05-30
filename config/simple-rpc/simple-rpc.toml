@@ -31,7 +31,7 @@
 
 	[[init.buttons]]
 		label = "Server Info"
-		url = "mcdocs.shu.akitsune.dev/"
+		url = "https://mcdocs.shu.akitsune.dev/"
 
 [main_menu]
 	#Enable/Disable the Main Menu Event

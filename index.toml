@@ -29,6 +29,11 @@ hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "ed9a11a142b9e2aadbbd4736e3a4edbb209e991a42107ea90e048dfce10b2896"
 metafile = true
